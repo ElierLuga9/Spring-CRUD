@@ -15,9 +15,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
+//Probando cambios
 /**
  *
- * @author César Huerta
+ * @author Carlos Elier
  */
 @Controller
 public class mainController {
